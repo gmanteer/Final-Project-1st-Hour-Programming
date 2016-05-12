@@ -7,5 +7,6 @@
 using namespace std;
 
 class ElementList{
-
+	int element;
+	int atomicNum;
 };
