@@ -115,147 +115,284 @@ int main(){
 			cout << "26	Iron	Fe" << endl;
 			break;
 		case 27:
-			cout << "19	Potassium	K" << endl;
+			cout << "27	Cobalt	Co" << endl;
 			break;
 		case 28:
-			cout << "19	Potassium	K" << endl;
+			cout << "28	Nickel	Ni" << endl;
 			break;
 		case 29:
-			cout << "19	Potassium	K" << endl;
+			cout << "29	Copper	Cu" << endl;
+			break;
 		case 30:
-			cout << "19	Potassium	K" << endl;
+			cout << "30	Zinc	Zn" << endl;
 			break;
 		case 31:
-			cout << "19	Potassium	K" << endl;
+			cout << "31	Gallium	Ga" << endl;
 			break;
 		case 32:
-			cout << "19	Potassium	K" << endl;
+			cout << "32	Germanium	Ge" << endl;
 			break;
 		case 33:
-			cout << "19	Potassium	K" << endl;
+			cout << "33	Arsenic	As" << endl;
 			break;
 		case 34:
-			cout << "19	Potassium	K" << endl;
+			cout << "34	Selenium	Se" << endl;
 			break;
 		case 35:
-			cout << "19	Potassium	K" << endl;
+			cout << "35	Bromine	Br" << endl;
 			break;
 		case 36:
-			cout << "19	Potassium	K" << endl;
+			cout << "36	Krypton	Kr" << endl;
 			break;
 		case 37:
-			cout << "19	Potassium	K" << endl;
+			cout << "37	Rubidium	Rb" << endl;
 			break;
 		case 38:
-			cout << "19	Potassium	K" << endl;
+			cout << "38	Strontium	Sr" << endl;
 			break;
-		case 38:
-			cout << "19	Potassium	K" << endl;
+		case 39:
+			cout << "39	Yttrium	Y" << endl;
 			break;
-
-				
-				
-				
-				
-				
-				
-				
-				27	Cobalt	Co
-				28	Nickel	Ni
-				29	Copper	Cu
-				30	Zinc	Zn
-				31	Gallium	Ga
-				32	Germanium	Ge
-				33	Arsenic	As
-				34	Selenium	Se
-				35	Bromine	Br
-				36	Krypton	Kr
-				37	Rubidium	Rb
-				38	Strontium	Sr
-				39	Yttrium	Y
-				40	Zirconium	Zr
-				41	Niobium	Nb
-				42	Molybdenum	Mo
-				43	Technetium	Tc
-				44	Ruthenium	Ru
-				45	Rhodium	Rh
-				46	Palladium	Pd
-				47	Silver	Ag
-				48	Cadmium	Cd
-				49	Indium	In
-				50	Tin	Sn
-				51	Antimony	Sb
-				52	Tellurium	Te
-				53	Iodine	I
-				54	Xenon	Xe
-				55	Cesium	Cs
-				56	Barium	Ba
-				57	Lanthanum	La
-				58	Cerium	Ce
-				59	Praseodymium	Pr
-				60	Neodymium	Nd
-				61	Promethium	Pm
-				62	Samarium	Sm
-				63	Europium	Eu
-				64	Gadolinium	Gd
-				65	Terbium	Tb
-				66	Dysprosium	Dy
-				67	Holmium	Ho
-				68	Erbium	Er
-				69	Thulium	Tm
-				70	Ytterbium	Yb
-				71	Lutetium	Lu
-				72	Hafnium	Hf
-				73	Tantalum	Ta
-				74	Tungsten	W
-				75	Rhenium	Re
-				76	Osmium	Os
-				77	Iridium	Ir
-				78	Platinum	Pt
-				79	Gold	Au
-				80	Mercury	Hg
-				81	Thallium	Tl
-				82	Lead	Pb
-				83	Bismuth	Bi
-				84	Polonium	Po
-				85	Astatine	At
-				86	Radon	Rn
-				87	Francium	Fr
-				88	Radium	Ra
-				89	Actinium	Ac
-				90	Thorium	Th
-				91	Protactinium	Pa
-				92	Uranium	U
-				93	Neptunium	Np
-				94	Plutonium	Pu
-				95	Americium	Am
-				96	Curium	Cm
-				97	Berkelium	Bk
-				98	Californium	Cf
-				99	Einsteinium	Es
-				100	Fermium	Fm
-				101	Mendelevium	Md
-				102	Nobelium	No
-				103	Lawrencium	Lr
-				104	Rutherfordium	Rf
-				105	Dubnium	Db
-				106	Seaborgium	Sg
-				107	Bohrium	Bh
-				108	Hassium	Hs
-				109	Meitnerium	Mt
-				110	Darmstadtium	Ds
-				111	Roentgenium	Rg
-				112	Ununbium	Uub
-				113	Ununtrium	Uut
-				114	Ununquadium	Uuq
-				115	Ununpentium	Uup
-				116	Ununhexium	Uuh
-				117	Ununseptium	Uus
-				118	Ununoctium	Uuo
-
-				default:
-					cout << "The selection does not exist" << endl;
-					break;
+		case 40:
+			cout << "40	Zirconium	Zr" << endl;
+			break;
+		case 41:
+			cout << "41	Niobium	Nb" << endl;
+			break;
+		case 42:
+			cout << "42	Molybdenum	Mo" << endl;
+			break;
+		case 43:
+			cout << "43	Technetium	Tc" << endl;
+			break;
+		case 44:
+			cout << "44	Ruthenium	Ru" << endl;
+			break;
+		case 45:
+			cout << "45	Rhodium	Rh" << endl;
+			break;
+		case 46:
+			cout << "46	Palladium	Pd" << endl;
+			break;
+		case 47:
+			cout << "47	Silver	Ag" << endl;
+			break;
+		case 48:
+			cout << "48	Cadmium	Cd" << endl;
+			break;
+		case 49:
+			cout << "49	Indium	In" << endl;
+			break;
+		case 50:
+			cout << "50	Tin	Sn" << endl;
+			break;
+		case 51:
+			cout << "51	Antimony	Sb" << endl;
+			break;
+		case 52:
+			cout << "52	Tellurium	Te" << endl;
+			break;
+		case 53:
+			cout << "53	Iodine	I" << endl;
+			break;
+		case 54:
+			cout << "54	Xenon	Xe" << endl;
+			break;
+		case 55:
+			cout << "55	Cesium	Cs" << endl;
+			break;
+		case 56:
+			cout << "56	Barium	Ba" << endl;
+			break;
+		case 57:
+			cout << "57	Lanthanum	La" << endl;
+			break;
+		case 58:
+			cout << "58	Cerium	Ce" << endl;
+			break;
+		case 59:
+			cout << "59	Praseodymium	Pr" << endl;
+			break;
+		case 60:
+			cout << "60	Neodymium	Nd" << endl;
+			break;
+		case 61:
+			cout << "61	Promethium	Pm" << endl;
+			break;
+		case 62:
+			cout << "62	Samarium	Sm" << endl;
+			break;
+		case 63:
+			cout << "63	Europium	Eu" << endl;
+			break;
+		case 64:
+			cout << "64	Gadolinium	Gd" << endl;
+			break;
+		case 65:
+			cout << "65	Terbium	Tb" << endl;
+			break;
+		case 66:
+			cout << "66	Dysprosium	Dy" << endl;
+			break;
+		case 67:
+			cout << "67	Holmium	Ho" << endl;
+			break;
+		case 68:
+			cout << "68	Erbium	Er" << endl;
+			break;
+		case 69:
+			cout << "69	Thulium	Tm" << endl;
+			break;
+		case 70:
+			cout << "70	Ytterbium	Yb" << endl;
+			break;
+		case 71:
+			cout << "71	Lutetium	Lu" << endl;
+			break;
+		case 72:
+			cout << "72	Hafnium	Hf" << endl;
+			break;
+		case 73:
+			cout << "73	Tantalum	Ta" << endl;
+			break;
+		case 74:
+			cout << "74	Tungsten	W" << endl;
+			break;
+		case 75:
+			cout << "75	Rhenium	Re" << endl;
+			break;
+		case 76:
+			cout << "76	Osmium	Os" << endl;
+			break;
+		case 77:
+			cout << "77	Iridium	Ir" << endl;
+			break;
+		case 78:
+			cout << "78	Platinum	Pt" << endl;
+			break;
+		case 79:
+			cout << "79	Gold	Au" << endl;
+			break;
+		case 80:
+			cout << "80	Mercury	Hg" << endl;
+			break;
+		case 81:
+			cout << "81	Thallium	Tl" << endl;
+			break;
+		case 82:
+			cout << "82	Lead	Pb" << endl;
+			break;
+		case 83:
+			cout << "83	Bismuth	Bi" << endl;
+			break;
+		case 84:
+			cout << "84	Polonium	Po" << endl;
+			break;
+		case 85:
+			cout << "85	Astatine	At" << endl;
+			break;
+		case 86:
+			cout << "86	Radon	Rn" << endl;
+			break;
+		case 87:
+			cout << "87	Francium	Fr" << endl;
+			break;
+		case 88:
+			cout << "88	Radium	Ra" << endl;
+			break;
+		case 89:
+			cout << "89	Actinium	Ac" << endl;
+			break;
+		case 90:
+			cout << "90	Thorium	Th" << endl;
+			break;
+		case 91:
+			cout << "91	Protactinium	Pa" << endl;
+			break;
+		case 92:
+			cout << "92	Uranium	U" << endl;
+			break;
+		case 93:
+			cout << "93	Neptunium	Np" << endl;
+			break;
+		case 94:
+			cout << "94	Plutonium	Pu" << endl;
+			break;
+		case 95:
+			cout << "95	Americium	Am" << endl;
+			break;
+		case 96:
+			cout << "96	Curium	Cm" << endl;
+			break;
+		case 97:
+			cout << "97	Berkelium	Bk" << endl;
+			break;
+		case 98:
+			cout << "98	Californium	Cf" << endl;
+			break;
+		case 99:
+			cout << "99	Einsteinium	Es" << endl;
+			break;
+		case 100:
+			cout << "100	Fermium	Fm" << endl;
+			break;
+		case 101:
+			cout << "101	Mendelevium	Md" << endl;
+			break;
+		case 102:
+			cout << "102	Nobelium	No" << endl;
+			break;
+		case 103:
+			cout << "103	Lawrencium	Lr" << endl;
+			break;
+		case 104:
+			cout << "104	Rutherfordium	Rf" << endl;
+			break;
+		case 105:
+			cout << "105	Dubnium	Db" << endl;
+			break;
+		case 106:
+			cout << "106	Seaborgium	Sg" << endl;
+			break;
+		case 107:
+			cout << "107	Bohrium	Bh" << endl;
+			break;
+		case 108:
+			cout << "108	Hassium	Hs" << endl;
+			break;
+		case 109:
+			cout << "109	Meitnerium	Mt" << endl;
+			break;
+		case 110:
+			cout << "110	Darmstadtium	Ds" << endl;
+			break;
+		case 111:
+			cout << "111	Roentgenium	Rg" << endl;
+			break;
+		case 112:
+			cout << "112	Ununbium	Uub" << endl;
+			break;
+		case 113:
+			cout << "113	Ununtrium	Uut" << endl;
+			break;
+		case 114:
+			cout << "114	Ununquadium	Uuq" << endl;
+			break;
+		case 115:
+			cout << "115	Ununpentium	Uup" << endl;
+			break;
+		case 116:
+			cout << "116	Ununhexium	Uuh" << endl;
+			break;
+		case 117:
+			cout << "117	Ununseptium	Uus" << endl;
+			break;
+		case 118:
+			cout << "118	Ununoctium	Uuo" << endl;
+			break;
+		default:
+			cout << "The selection does not exist" << endl;
+			break;
 		}
 
 		system("pause");
