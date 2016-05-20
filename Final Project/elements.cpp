@@ -21,16 +21,10 @@ int main(){
 	cin >> selection;
 
 	for (int i = 0; i < 118; i++){
-		if (selection >= 0 && selection <= 119){
+		if (selection >= 1 && selection <= 119){
 			selection--;
-			if (selection == 118){
-				continue;
-			}
-			else{
-				cout << "Invalid Selection" << endl;
 			}
 		}
-	}
 
 		switch (selection){
 		case 0:
@@ -389,6 +383,9 @@ int main(){
 			break;
 		case 118:
 			cout << "118	Ununoctium	Uuo" << endl;
+			break;
+		case 119:
+			cout << "This element does not exist!" << endl;
 			break;
 		default:
 			cout << "The selection does not exist" << endl;
